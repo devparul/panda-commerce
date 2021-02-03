@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 50px;
+    margin-bottom: 75px;
 }
 .slider-bg{
     background-color: #feeae9;
@@ -19,6 +19,7 @@
     border-radius: 8px;
     cursor: pointer;
 }
+
 .catbg1, .catbg2, .catbg3{
     padding: 10px 30px;
     border-radius: 10px;
@@ -38,4 +39,22 @@
 }
 .categories img{
     width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+#contact{
+    height: 300px;
+}
+.footer{
+    text-align: center;
+    color: gray;
+}
+.container h6{
+    color: gray;
 }
